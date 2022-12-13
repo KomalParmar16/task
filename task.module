@@ -1,0 +1,20 @@
+<?php
+
+//use Drupal\Core\Form\FormStateInterface;
+
+/**
+ * Implements hook_form_alter().
+ */
+// function task_form_alter(&$form, \Drupal\Core\Form\FormStateInterface $form_state, $form_id){
+
+//     if ($form_id == 'task_form') {
+//         // $values = $form_state->getValue('asset_type');
+//         // $values2 = $form_state->getValue('asset_path');
+//         $values3= $form['asset_type']['widget']['#default_value'];
+//         //echo'<pre>';var_dump($form['asset_type']);
+//         var_dump($values3);
+//         exit();
+//         //$form['#attached']['library'] = 'task/task-lib';
+//     }
+//     return $form;
+// }

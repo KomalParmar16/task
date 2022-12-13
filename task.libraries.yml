@@ -1,0 +1,8 @@
+task-lib:
+ css:
+   css/task_style.css: {}
+
+task-js:
+ js:
+
+   js/task_script.js : {}

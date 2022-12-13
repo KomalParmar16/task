@@ -1,0 +1,7 @@
+task.form:
+ path: '/task/myform'
+ defaults:
+   _title: 'Multiple asset type form'
+   _form: '\Drupal\task\Form\TaskForm'
+ requirements:
+   _permission: 'access content'
